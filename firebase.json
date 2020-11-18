@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "target": "rss2medium",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
